@@ -1,0 +1,13 @@
+Clone the git Repository
+git clone https://github.com/lerndevops/educka.git
+
+
+PUSH the code to Repository :-
+git add.
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/kundaramesh/docker-k8s.git
+
+git push origin master
+
